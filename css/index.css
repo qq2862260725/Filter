@@ -1,0 +1,16 @@
+html,body {
+	height: 100%;
+	width: 100%;
+	background-color: #ffffff;
+}
+
+/*page*/
+.page {
+	height: 100%;
+	width: 100%;
+}
+.page img {
+	height: auto;
+	width: 100%;
+	-webkit-filter: grayscale(90%); 
+}
